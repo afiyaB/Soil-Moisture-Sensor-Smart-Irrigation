@@ -102,8 +102,7 @@ This project promotes smart farming by improving irrigation efficiency, reducing
 
 ## Circuit Diagram
 
-![Circuit Diagram](Circuit Diagram.png)
-
+![Circuit Diagram](circuit_diagram.png)
 
 ---
 
