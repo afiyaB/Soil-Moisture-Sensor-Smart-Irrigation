@@ -100,19 +100,10 @@ This project promotes smart farming by improving irrigation efficiency, reducing
 
 ---
 
-## 📄 Documentation
+## Circuit Diagram
 
-The project presentation/report is included in this repository.
+![Circuit Diagram](Circuit Diagram.png)
 
----
-
-## 👩‍🏫 Guide
-
-**Prof. Sunanda Alur**
-
-Department of CSE (AI & ML)
-
-BLDEA's V.P. Dr. P.G. Halakatti College of Engineering & Technology, Vijayapura
 
 ---
 
